@@ -2,27 +2,34 @@
 
 ## Desktop View
 
-![image](https://github.com/EzeAlarcon/jobportal/assets/138638611/128796ea-16a7-48cc-bbe2-654f90f9e97a)
+![image](https://github.com/EzeAlarcon/potaljob/assets/138638611/fdf707ca-d57c-42cf-a176-0f49fe682f9a) 
+
 
 ## Login View
 
-![image](https://github.com/EzeAlarcon/jobportal/assets/138638611/00ff259f-f1ca-4995-b71f-d100ed85c9d5)
+![image](https://github.com/EzeAlarcon/potaljob/assets/138638611/6dd4b417-c269-4cf0-8fd3-7266cd2809b5)
+
 
 ## Log View
 
-![image](https://github.com/EzeAlarcon/jobportal/assets/138638611/ccc09bbb-0fd8-443a-9fe2-5c80ddc572fa)
+![image](https://github.com/EzeAlarcon/potaljob/assets/138638611/22fad110-9c83-404e-a20d-fce0528d34c3)
+
 
 
 ## Administration Panel and publication of jobs and applications
 
-![image](https://github.com/EzeAlarcon/jobportal/assets/138638611/58beffb8-8a0d-4237-8926-9e04cb0e3238)
+![image](https://github.com/EzeAlarcon/potaljob/assets/138638611/a3572a4a-de40-4cfb-b62d-df6be976cf03)
+
 
 
 ## View on Mobile devices
 
-![image](https://github.com/EzeAlarcon/jobportal/assets/138638611/e300abcb-f8ef-4b5b-9304-3107b6d59ad4) ![image](https://github.com/EzeAlarcon/jobportal/assets/138638611/00a3967c-b971-4f32-aea3-6374415b1b94)
+![image](https://github.com/EzeAlarcon/potaljob/assets/138638611/a57fc783-25b8-4842-8350-48405b2b70a0) ![image](https://github.com/EzeAlarcon/potaljob/assets/138638611/c80b9600-1498-4e08-b9e9-901c29276ca4)
+![image](https://github.com/EzeAlarcon/potaljob/assets/138638611/50e56d34-5e0d-4712-916e-f77e09f1e625) ![image](https://github.com/EzeAlarcon/potaljob/assets/138638611/1bce6833-1e46-42f6-a93f-17f4d1e3ac04)
 
-![image](https://github.com/EzeAlarcon/jobportal/assets/138638611/c3399a87-51be-4959-a808-eadeb49c099b) ![image](https://github.com/EzeAlarcon/jobportal/assets/138638611/8555ab34-86c6-4e0b-a242-7ab2fd0eede4)
+
+
+
 
 
 
